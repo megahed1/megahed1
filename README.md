@@ -110,6 +110,8 @@
 
 <br/>
 
+<div align="center">
+
 <h3>Contact</h3>
 
 <a href="mailto:megahed99044@gmail.com">
