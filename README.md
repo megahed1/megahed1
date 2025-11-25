@@ -98,3 +98,23 @@
 <h3>Projects</h3>
 
 <img src="https://img.shields.io/badge/Computer%20Vision-4F46E5?style=for-the-badge&logo=cuda&logoColor=ffffff" />
+<img src="https://img.shields.io/badge/NLP-06B6D4?style=for-the-badge&logo=apacheairflow&logoColor=ffffff" />
+<img src="https://img.shields.io/badge/Time%20Series-8B5CF6?style=for-the-badge&logo=clockify&logoColor=ffffff" />
+<img src="https://img.shields.io/badge/Recommendation-4F46E5?style=for-the-badge&logo=replit&logoColor=ffffff" />
+<img src="https://img.shields.io/badge/MLOps-06B6D4?style=for-the-badge&logo=githubactions&logoColor=ffffff" />
+<img src="https://img.shields.io/badge/EDA%20Dashboards-8B5CF6?style=for-the-badge&logo=powerbi&logoColor=ffffff" />
+<img src="https://img.shields.io/badge/Anomaly%20Detection-4F46E5?style=for-the-badge&logo=ray&logoColor=ffffff" />
+<img src="https://img.shields.io/badge/Forecasting-06B6D4?style=for-the-badge&logo=plotly&logoColor=ffffff" />
+
+</div>
+
+<br/>
+
+<h3>Contact</h3>
+
+<a href="mailto:megahed99044@gmail.com">
+  <img src="https://img.shields.io/badge/Email-1F6FEB?style=for-the-badge&logo=gmail&logoColor=ffffff" />
+</a>
+<a href="https://www.linkedin.com/in/mohamed-megahed-">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=ffffff" />
+</a>
