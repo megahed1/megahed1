@@ -13,11 +13,6 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:4F46E5,50:06B6D4,100:8B5CF6&height=2&section=header" width="70%" />
 </div>
 
-<!-- 🔥 New AI/Data GIF instead of Hello World -->
-<div align="center">
-  <img src="https://media.giphy.com/media/2wS2YyZ8IDXfch3UqI/giphy.gif" width="260px" alt="AI Data Flow"/>
-</div>
-
 <br/>
 
 <div align="center">
