@@ -75,12 +75,6 @@
   alt="GitHub Streak"
 />
 
-<img 
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=megahed1&layout=compact&theme=tokyonight&hide_border=true&title_color=8B5CF6&text_color=94A3B8" 
-  height="150" 
-  alt="Top Languages"
-/>
-
 <br/>
 
 <img 
